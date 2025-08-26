@@ -15,3 +15,7 @@ It should try to run fire dynamics simulations to show how well I can use availa
 - [ ] Get a rack with "drawers"
 - [ ] Start a picture series of the boards next to performance measurements
 - [ ] Research next cool capability, possibly AI or local cloud storage
+
+# Running Log
+20250826  
+ - Attempted to start old Laptop. Hard drive not recognized by BIOS. Got an analysis at PC repair shop: SSD is physically broken and needs replacement. I'm glad I had backups of everything.
